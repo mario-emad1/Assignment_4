@@ -1,0 +1,1 @@
+export {default as suppliersRouter } from './supplier.controller.js'
